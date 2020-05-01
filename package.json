@@ -51,8 +51,7 @@
     "redux-promise": "^0.6.0",
     "redux-thunk": "^2.3.0"
   },
-  "engines": {"node": ">=10.16.3"},
-  "homepage": "https://alexsilva75-my-money-frontend.herokuapp.com"
+  "engines": {"node": ">=10.16.3"}
 
 
 }
